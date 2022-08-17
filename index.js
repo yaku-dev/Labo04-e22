@@ -5,7 +5,7 @@ const personne = require("./personne");
 console.log(personne.nom);
 console.log("tu as " + personne.age + " ans");
 
-const Presonne = require("./personne");
+Personne = require("./");
 const paul = new Personne("Paul Larue", 38);
 paul.salut();
 var bob = new Personne("Bob Larue", 33);
