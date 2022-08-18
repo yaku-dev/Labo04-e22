@@ -15,5 +15,8 @@
   "bugs": {
     "url": "https://github.com/yaku-dev/Labo04-e22/issues"
   },
-  "homepage": "https://github.com/yaku-dev/Labo04-e22#readme"
+  "homepage": "https://github.com/yaku-dev/Labo04-e22#readme",
+  "dependencies": {
+    "uuid": "^8.3.2"
+  }
 }
